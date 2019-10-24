@@ -27,9 +27,4 @@ public class MyAccountControllerTest {
         System.assert(!createdIds.isEmpty());
     }
 
-    @IsTest
-    static void myNewTest(){
-        
-    }
-
 }
