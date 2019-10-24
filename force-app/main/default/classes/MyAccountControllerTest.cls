@@ -28,7 +28,8 @@ public class MyAccountControllerTest {
     }
 
     @IsTest
-    static void newMethod(){
+    static void myNewTest(){
         
     }
+
 }
