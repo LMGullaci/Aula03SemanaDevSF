@@ -27,4 +27,9 @@ public class MyAccountControllerTest {
         System.assert(!createdIds.isEmpty());
     }
 
+    @IsTest
+    static void newMethod(){
+        System.debug('Git on vscode');
+    }
+
 }
