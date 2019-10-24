@@ -31,5 +31,10 @@ public class MyAccountControllerTest {
     static void newMethod(){
         System.debug('Git on vscode');
     }
+    
+    @IsTest
+    static void newMethod2(){
+        System.debug('Git on vscode');
+    }
 
 }
